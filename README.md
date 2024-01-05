@@ -25,7 +25,7 @@ Developer AJTimePyro.
 ## Direct Deploy
 Click Below Button to Deploy your Bot.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AJTimePyro/URL_Uploader_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RajbharSaheb/URL_Uploader_Bot)
 
 ## Support Telegram Group and Channel
 
